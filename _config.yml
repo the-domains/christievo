@@ -1,0 +1,28 @@
+name: Christievo
+favicon: null
+layout_spectrum: 0.6107711924705654
+typography_spectrum: 0.7222754172980785
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2973581862170249
+  lightness: 0.6418117629364133
+  saturation: 0.6929637724533677
+  rhythmicContrast: 0.6853856763336807
+purpose: []
